@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>hw2_Calendar</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="main.css">
+	<script src="main.js"></script>
+</head>
+<body>
+	<div class="container">
+		<div class="calendar">
+			<!--Calendar header-->
+			<div class="calendar-header" id="calendarHeader">
+				<button type="button" class="btn btn-outline-info" aria-label="left arrow" id="btnLeft">
+					<i class="fa fa-angle-left"></i>
+				</button>
+				<div class="calendar-header-label" id="headerLabel"></div>
+				<button type="button" class="btn btn-outline-info" aria-label="left arrow" id="btnRight">
+					<i class="fa fa-angle-right"></i>
+				</button>
+			</div>
+			<button type="button" class="btn btn-outline-info btn-today" aria-label="left arrow" id="btnToday">
+				<i class="fa fa-dot-circle-o"></i>
+			</button>
+			<!--Calendar days of week-->
+			<table class="calendar-body-days">
+				<tr>
+					<td class="cell">mon</td>
+					<td class="cell">tue</td>
+					<td class="cell">wed</td>
+					<td class="cell">thu</td>
+					<td class="cell">fri</td>
+					<td class="cell">sat</td>
+					<td class="cell">sun</td>
+				</tr>
+			</table>
+			<!--Calendar body-->
+			<table class="calendar-body-table">
+				<tbody id="calendarContent">
+					<tr>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+					</tr>
+					<tr>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+					</tr>
+					<tr>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+					</tr>
+					<tr>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+					</tr>
+					<tr>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+					</tr>
+					<tr>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+						<td class="cell"></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</body>
+</html>
