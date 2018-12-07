@@ -1,28 +1,4 @@
-// /**
-//  * rotation period of each object
-//  * @type {{mercury: number, venus: number, earth: number, moon: number, mars: number}}
-//  */
-// const duration = {
-//     mercury:    2000,
-//     venus:      7000,
-//     earth:      10000,
-//     moon:       1200,
-//     mars:       18000,
-//     jupiter:    40000
-// };
-//
-// /**
-//  * radius of orbit of each object
-//  * @type {{mercury: number, venus: number, earth: number, moon: number, mars: number}}
-//  */
-// const orbitRadius = {
-//     mercury:    50,
-//     venus:      80,
-//     earth:      130,
-//     moon:       20,
-//     mars:       170,
-//     jupiter:    500
-// };
+'use strict';
 /**
  * Parameters of all planets
  * @type {{duration: number, orbitRadius: number, ownRotation: number, dirRotation: number, drawOrbit: boolean}}
