@@ -1,0 +1,11 @@
+.ball {
+    position: relative;
+}
+
+.box {
+    height: 700px;
+    width: 700px;
+    position: absolute;
+    background-color: #fff;
+    border-style: solid;
+}

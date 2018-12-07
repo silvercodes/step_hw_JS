@@ -1,0 +1,126 @@
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.box {
+    width: 2000px;
+    height: 2000px;
+    border: black solid 2px;
+    position: absolute;
+    background-color: black;
+    background-size: cover;
+    z-index: -2;
+}
+
+.sun {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 950px;
+    left: 950px;
+    background-image: url('../img/sun.png');
+    background-size: cover;
+}
+
+.planet {
+    position: absolute;
+    background-size: cover;
+}
+
+.mercury {
+    width: 10px;
+    height: 10px;
+    background-image: url('../img/mercury.png');
+}
+
+.venus {
+    width: 15px;
+    height: 15px;
+    background-image: url('../img/venus.png');
+}
+
+
+.earth {
+    width: 20px;
+    height: 20px;
+    background-image: url('../img/earth.png');
+}
+
+.mars {
+    width: 16px;
+    height: 16px;
+    background-image: url('../img/mars.png');
+}
+
+.marssat1 {
+    width: 3px;
+    height: 3px;
+    background-image: url('../img/sat2.png');
+}
+
+.marssat2 {
+    width: 2px;
+    height: 2px;
+    background-image: url('../img/sat4.png');
+}
+
+.moon {
+    width: 6px;
+    height: 6px;
+    background-image: url('../img/moon.png');
+}
+
+.jupiter {
+    width: 80px;
+    height: 80px;
+    background-image: url('../img/jupiter.png');
+}
+
+.jupsat1 {
+    width: 2px;
+    height: 2px;
+    background-image: url('../img/sat1.png');
+}
+
+.jupsat2 {
+    width: 3px;
+    height: 3px;
+    background-image: url('../img/sat2.png');
+}
+
+.jupsat3 {
+    width: 4px;
+    height: 4px;
+    background-image: url('../img/sat3.png');
+}
+
+.jupsat4 {
+    width: 5px;
+    height: 5px;
+    background-image: url('../img/sat4.png');
+}
+
+.saturn {
+    width: 80px;
+    height: 80px;
+    background-image: url('../img/saturn.png');
+}
+
+.uranus {
+    width: 60px;
+    height: 60px;
+    background-image: url('../img/uranus.png');
+}
+
+.neptune {
+    width: 70px;
+    height: 70px;
+    background-image: url('../img/neptune.png');
+}
+
+.pluto {
+    width: 40px;
+    height: 40px;
+    background-image: url('../img/pluto.png');
+}
