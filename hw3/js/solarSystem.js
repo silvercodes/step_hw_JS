@@ -8,7 +8,7 @@ const planetParam = {
     mercury:    {duration: 2000, orbitRadius: 50, ownRotation: 5, dirRotation: 1, drawOrbit: true},
     venus:      {duration: 7000, orbitRadius: 80, ownRotation: 8, dirRotation: 1, drawOrbit: true},
     earth:      {duration: 10000, orbitRadius: 150, ownRotation: 20, dirRotation: -1, drawOrbit: true},
-    moon:       {duration: 1200, orbitRadius: 30, ownRotation: 1, dirRotation: 1, drawOrbit: false},
+    moon:       {duration: 2000, orbitRadius: 30, ownRotation: 1, dirRotation: 1, drawOrbit: false},
     mars:       {duration: 18000, orbitRadius: 250, ownRotation: 20, dirRotation: 1, drawOrbit: true},
     marssat1:   {duration: 1500, orbitRadius: 20, ownRotation: 3, dirRotation: -1, drawOrbit: false},
     marssat2:   {duration: 2300, orbitRadius: 27, ownRotation: 3, dirRotation: -1, drawOrbit: false},

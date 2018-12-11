@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="https://bootswatch.com/4/spacelab/bootstrap.min.css">
+    <script src="js/extractor.js"></script>
+
+
+    <title>hw4 (links grubber)</title>
+</head>
+<body>
+
+    <div class="container text-center">
+        <img src="img/logo.png" alt="">
+    </div>
+    <div class="row justify-content-md-center mt-4">
+        <div class="form-group col-md-6">
+            <div class="custom-control custom-radio">
+                <input type="radio" id="useUri" name="customRadio" class="custom-control-input" checked="">
+                <label class="custom-control-label col-md-12" for="useUri">
+                    <label for="url">URL</label>
+                    <input type="text" class="form-control" id="url">
+                    <small id="urlHelp" class="form-text text-muted">Enter URL to extract links</small>
+                </label>
+            </div>
+            <div class="custom-control custom-radio mt-4">
+                <input type="radio" id="useText" name="customRadio" class="custom-control-input">
+                <label class="custom-control-label col-md-12" for="useText">
+                    <label for="text">Html</label>
+                    <textarea class="form-control" id="text" rows="10" disabled></textarea>
+                    <small id="textHelp" class="form-text text-muted">Enter HTML to extract links</small>
+                </label>
+            </div>
+
+            <div class="row mt-4 custom-control">
+                <div class="custom-control custom-checkbox">
+                    <input type="checkbox" class="custom-control-input" id="chkWithNames">
+                    <label class="custom-control-label" for="chkWithNames">Select links with names only</label>
+                </div>
+                <div class="custom-control text-right">
+                    <button class="btn btn-primary" style="margin-right: 30px;" id="btnGo" disabled>Extract</button>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+</body>
+</html>
