@@ -85,12 +85,28 @@ function Extractor(url = null) {
      * Get html content from url using http://www.whateverorigin.org
      */
     this.getContentFromUrl = () => {
-        $.getJSON('http://www.whateverorigin.org/get?url=' + encodeURIComponent(this.url) + '&callback=?', (data) => {
-            if (data) {
-                content = data.contents;
-                parsing();
-            }
-        });
+        let table = document.getElementById('results');
+        if(table)
+            table.parentNode.removeChild(table);
+
+        document.getElementById('btnGo').disabled = true;
+
+        try {
+            $.getJSON('http://www.whateverorigin.org/get?url=' + encodeURIComponent(this.url) + '&callback=?', (data) => {
+                if (data) {
+                    content = data.contents;
+                    parsing();
+                }
+            }).fail(( jqxhr, textStatus, error ) => {
+                let err = textStatus + ", " + error;
+                console.log( 'Request Failed: ' + err )
+                alert('Request Failed: ' + err)
+            }).always(() => {
+                document.getElementById('btnGo').disabled = false;
+            });
+        } catch (e) {
+            console.log(e.message);
+        }
     };
 
     /**
@@ -106,9 +122,6 @@ function Extractor(url = null) {
      * Processing the html
      */
     const parsing = () => {
-        let table = document.getElementById('results');
-        if(table)
-            table.parentNode.removeChild(table);
 
         const arrResults = [];
 
@@ -121,11 +134,6 @@ function Extractor(url = null) {
 
             let hrefRes = arrFound[key].match(/href="(http.*?)"/);
             let nameRes = arrFound[key].match(/(<.*?>)+(.*?)(<\/.*?>)+/);
-
-            console.log('HREF=');
-            console.log(hrefRes);
-            console.log('NAME=');
-            console.log(nameRes);
 
             if (hrefRes) {
                 href = hrefRes[1];
@@ -216,4 +224,3 @@ function Extractor(url = null) {
         body.appendChild(container);
     };
 }
-

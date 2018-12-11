@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db5c4903-f491-47b3-ba17-8ceac722f78d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hw4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw4/js/extractor.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw3/js/solarSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/js/solarSystem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4/js/extractor.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw4/js/extractor.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,15 +45,15 @@
         <counts>
           <entry key="css" value="1379" />
           <entry key="gitignore" value="27" />
-          <entry key="html" value="2161" />
-          <entry key="js" value="28824" />
+          <entry key="html" value="2174" />
+          <entry key="js" value="29036" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="1379" />
-          <entry key="HTML" value="2161" />
-          <entry key="JavaScript" value="28824" />
+          <entry key="HTML" value="2174" />
+          <entry key="JavaScript" value="29036" />
           <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
@@ -83,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw4/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="42" column="89" selection-start-line="42" selection-start-column="89" selection-end-line="42" selection-end-column="89" />
+            <state relative-caret-position="210">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#button#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -95,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hw4/js/extractor.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="172" column="54" lean-forward="true" selection-start-line="172" selection-start-column="54" selection-end-line="172" selection-end-column="54" />
+            <state relative-caret-position="1244">
+              <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
             </state>
           </provider>
         </entry>
@@ -107,6 +106,8 @@
     <findStrings>
       <find>size</find>
       <find>results</find>
+      <find>btnGo</find>
+      <find>console</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -247,12 +248,12 @@
       <workItem from="1543999779885" duration="14541000" />
       <workItem from="1544040010483" duration="40199000" />
       <workItem from="1544293736537" duration="165000" />
-      <workItem from="1544436741219" duration="35125000" />
+      <workItem from="1544436741219" duration="37603000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153691000" />
+    <option name="totallyTimeSpent" value="156169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -420,8 +421,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hw4/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="42" column="89" selection-start-line="42" selection-start-column="89" selection-end-line="42" selection-end-column="89" />
+        <state relative-caret-position="210">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#button#0;n#div#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -430,8 +431,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hw4/js/extractor.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="172" column="54" lean-forward="true" selection-start-line="172" selection-start-column="54" selection-end-line="172" selection-end-column="54" />
+        <state relative-caret-position="1244">
+          <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
         </state>
       </provider>
     </entry>
