@@ -7,7 +7,7 @@ window.onload = () => {
     const chkUseUri = document.getElementById('useUri');
     const chkUseText = document.getElementById('useText');
     const url = document.getElementById('url');
-    const text = document.getElementById('text');
+    const text = document.getElementById('_text');
     const btnGo = document.getElementById('btnGo');
 
     /**
@@ -45,7 +45,7 @@ window.onload = () => {
     };
 
     /**
-     * text change value
+     * _text change value
      */
     text.oninput = () => {
         if(chkUseText.checked)
