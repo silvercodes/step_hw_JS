@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db5c4903-f491-47b3-ba17-8ceac722f78d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hw6_CompanyStructure/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6_CompanyStructure/js/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw6_CompanyStructure/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,18 +18,18 @@
     <session id="-113594459">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
-          <entry key="project.open.time.0" value="14" />
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.0" value="15" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="12" />
-          <entry key="gitignore" value="1" />
-          <entry key="html" value="27" />
-          <entry key="js" value="46" />
+          <entry key="gitignore" value="2" />
+          <entry key="html" value="30" />
+          <entry key="js" value="51" />
           <entry key="json" value="1" />
           <entry key="png" value="3" />
           <entry key="txt" value="4" />
@@ -34,19 +38,19 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="12" />
-          <entry key="HTML" value="27" />
+          <entry key="HTML" value="30" />
           <entry key="Image" value="3" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="46" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="JavaScript" value="51" />
+          <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="1465" />
           <entry key="gitignore" value="27" />
-          <entry key="html" value="2789" />
-          <entry key="js" value="44820" />
+          <entry key="html" value="3534" />
+          <entry key="js" value="49306" />
           <entry key="json" value="17" />
           <entry key="txt" value="2" />
         </counts>
@@ -54,9 +58,9 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="1465" />
-          <entry key="HTML" value="2789" />
+          <entry key="HTML" value="3534" />
           <entry key="JSON" value="17" />
-          <entry key="JavaScript" value="44820" />
+          <entry key="JavaScript" value="49306" />
           <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
@@ -64,60 +68,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw5_localToDoList/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="24" column="69" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw5_localToDoList/js/lib.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="230" column="21" lean-forward="true" selection-start-line="230" selection-start-column="21" selection-end-line="230" selection-end-column="21" />
-              <folding>
-                <element signature="e#17#37#0" />
-                <element signature="e#309#350#0" />
-                <element signature="e#401#1188#0" />
-                <element signature="e#1229#1316#0" />
-                <element signature="e#1359#1442#0" />
-                <element signature="e#1860#1868#0" />
-                <element signature="e#1909#1928#0" />
-                <element signature="e#1936#1984#0" />
-                <element signature="e#2033#2504#0" />
-                <element signature="e#2546#2643#0" />
-                <element signature="e#2687#2761#0" />
-                <element signature="e#2799#2861#0" />
-                <element signature="e#2899#3120#0" />
-                <element signature="e#3429#3437#0" />
-                <element signature="e#3572#3580#0" />
-                <element signature="e#4407#4426#0" />
-                <element signature="e#3658#3863#0" />
-                <element signature="e#3901#4257#0" />
-                <element signature="e#4479#4487#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hw5_localToDoList/js/main.js">
+        <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="135" column="37" selection-start-line="135" selection-start-column="37" selection-end-line="135" selection-end-column="37" />
-              <folding>
-                <element signature="e#94#102#0" />
-                <element signature="n#!!block;n#initialFill#0" />
-                <element signature="n#!!block;n#addList#0" />
-                <element signature="n#!!block;n#clearList#0" />
-                <element signature="n#!!block;n#deleteList#0" />
-                <element signature="n#!!block;n#removeComleted#0" />
-                <element signature="n#!!block;n#addEntry#0" />
-                <element signature="n#!!block;n#saveToLocalStorage#0" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="85" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1476">
+              <caret line="126" column="5" lean-forward="true" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-37">
+              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -177,6 +159,11 @@
         <option value="$PROJECT_DIR$/hw5_localToDoList/index.html" />
         <option value="$PROJECT_DIR$/hw5_localToDoList/js/lib.js" />
         <option value="$PROJECT_DIR$/hw5_localToDoList/js/main.js" />
+        <option value="$PROJECT_DIR$/hw5_localToDoList/js/config.js" />
+        <option value="$PROJECT_DIR$/hw6_CompanyStructure/js/config.js" />
+        <option value="$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js" />
+        <option value="$PROJECT_DIR$/hw6_CompanyStructure/js/main.js" />
+        <option value="$PROJECT_DIR$/hw6_CompanyStructure/index.html" />
       </list>
     </option>
   </component>
@@ -186,7 +173,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -228,11 +215,15 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,13 +234,18 @@
             <path>
               <item name="js" type="b2602c69:ProjectViewProjectNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw4_linksExtractor" type="462c0819:PsiDirectoryNode" />
+              <item name="hw6_CompanyStructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="hw6_CompanyStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -258,18 +254,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/hw5_localToDoList/img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw6_CompanyStructure/js" />
       <recent name="$PROJECT_DIR$/hw5_localToDoList/js" />
       <recent name="$PROJECT_DIR$/hw5_todoList/img" />
       <recent name="$PROJECT_DIR$/hw3/pages" />
       <recent name="$PROJECT_DIR$/hw3/js/temp" />
-      <recent name="$PROJECT_DIR$/hw3/css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw5_localToDoList/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -309,17 +305,19 @@
       <workItem from="1544436741219" duration="38129000" />
       <workItem from="1545214713392" duration="51570000" />
       <workItem from="1545418289529" duration="18774000" />
-      <workItem from="1547244452774" duration="14443000" />
+      <workItem from="1547244452774" duration="19831000" />
+      <workItem from="1547811864669" duration="17943000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241482000" />
+    <option name="totallyTimeSpent" value="264813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21736111" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16523606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -332,7 +330,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.57109284" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5710843" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -354,13 +352,6 @@
     <entry file="file://$PROJECT_DIR$/hw3/dom_1543149479.txt" />
     <entry file="file://$PROJECT_DIR$/hw3/css/main.css" />
     <entry file="file://$PROJECT_DIR$/hw3/js/temp/main.js" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw3/css/ball.css" />
     <entry file="file://$PROJECT_DIR$/hw3/pages/ball.html" />
     <entry file="file://$PROJECT_DIR$/hw3/js/ball.js" />
@@ -393,27 +384,9 @@
     <entry file="file://$PROJECT_DIR$/hw4/js/extractor.js" />
     <entry file="file://$PROJECT_DIR$/hw3/js/animate.js" />
     <entry file="file://$PROJECT_DIR$/hw5_todoList/data/db.json" />
-    <entry file="file://$PROJECT_DIR$/hw5_todoList/to_do_list_1544980434.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw5_todoList/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw5_todoList/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hw5_todoList/to_do_list_1544980434.txt" />
+    <entry file="file://$PROJECT_DIR$/hw5_todoList/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/hw5_todoList/index.html" />
     <entry file="file://$PROJECT_DIR$/hw5_localToDoList/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -424,20 +397,8 @@
     <entry file="file:///Library/WebServer/Documents/zmapper.loc/zview/main.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw5_todoList/js/cls.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="916">
-          <caret line="81" column="19" selection-start-line="81" selection-start-column="9" selection-end-line="81" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="24" column="69" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hw5_todoList/js/cls.js" />
+    <entry file="file://$PROJECT_DIR$/hw5_todoList/js/main.js" />
     <entry file="file://$PROJECT_DIR$/hw5_localToDoList/js/lib.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -466,32 +427,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw5_todoList/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="9" lean-forward="true" selection-start-line="35" selection-start-column="8" selection-end-line="37" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw4_linksExtractor/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-541" />
+        <state relative-caret-position="120">
+          <caret line="8" column="80" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="80" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hw5_localToDoList/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="135" column="37" selection-start-line="135" selection-start-column="37" selection-end-line="135" selection-end-column="37" />
+        <state relative-caret-position="241">
+          <caret line="115" column="18" selection-start-line="115" selection-start-column="11" selection-end-line="115" selection-end-column="18" />
           <folding>
-            <element signature="e#94#102#0" />
-            <element signature="n#!!block;n#initialFill#0" />
             <element signature="n#!!block;n#addList#0" />
             <element signature="n#!!block;n#clearList#0" />
             <element signature="n#!!block;n#deleteList#0" />
-            <element signature="n#!!block;n#removeComleted#0" />
             <element signature="n#!!block;n#addEntry#0" />
             <element signature="n#!!block;n#saveToLocalStorage#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1476">
+          <caret line="126" column="5" lean-forward="true" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="85" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
