@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db5c4903-f491-47b3-ba17-8ceac722f78d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hw6_CompanyStructure/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw6_CompanyStructure/js/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw6_CompanyStructure/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +14,7 @@
     <session id="-113594459">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="15" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.opened" value="17" />
@@ -26,41 +22,42 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="12" />
+          <entry key="css" value="15" />
+          <entry key="gif" value="1" />
           <entry key="gitignore" value="2" />
-          <entry key="html" value="30" />
-          <entry key="js" value="51" />
+          <entry key="html" value="32" />
+          <entry key="js" value="58" />
           <entry key="json" value="1" />
-          <entry key="png" value="3" />
+          <entry key="png" value="4" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="12" />
-          <entry key="HTML" value="30" />
-          <entry key="Image" value="3" />
+          <entry key="CSS" value="15" />
+          <entry key="HTML" value="32" />
+          <entry key="Image" value="5" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="51" />
+          <entry key="JavaScript" value="58" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1465" />
+          <entry key="css" value="1489" />
           <entry key="gitignore" value="27" />
-          <entry key="html" value="3534" />
-          <entry key="js" value="49306" />
+          <entry key="html" value="3883" />
+          <entry key="js" value="50073" />
           <entry key="json" value="17" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1465" />
-          <entry key="HTML" value="3534" />
+          <entry key="CSS" value="1489" />
+          <entry key="HTML" value="3883" />
           <entry key="JSON" value="17" />
-          <entry key="JavaScript" value="49306" />
+          <entry key="JavaScript" value="50073" />
           <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
@@ -68,20 +65,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw7_cookies/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="610">
+              <caret line="45" column="85" selection-start-line="45" selection-start-column="85" selection-end-line="45" selection-end-column="85" />
+              <folding>
+                <element signature="e#870#877#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/config.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hw7_cookies/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="85" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="85" />
+            <state relative-caret-position="435">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -89,17 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1476">
-              <caret line="126" column="5" lean-forward="true" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-37">
-              <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+            <state relative-caret-position="1200">
+              <caret line="80" column="61" selection-start-line="80" selection-start-column="61" selection-end-line="80" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -164,6 +155,11 @@
         <option value="$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js" />
         <option value="$PROJECT_DIR$/hw6_CompanyStructure/js/main.js" />
         <option value="$PROJECT_DIR$/hw6_CompanyStructure/index.html" />
+        <option value="$PROJECT_DIR$/hw7_cookies/colorpicker/js/colorpicker.js" />
+        <option value="$PROJECT_DIR$/hw7_cookies/main.css" />
+        <option value="$PROJECT_DIR$/hw7_cookies/js/js_cookie.js" />
+        <option value="$PROJECT_DIR$/hw7_cookies/index.html" />
+        <option value="$PROJECT_DIR$/hw7_cookies/js/main.js" />
       </list>
     </option>
   </component>
@@ -234,12 +230,12 @@
             <path>
               <item name="js" type="b2602c69:ProjectViewProjectNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw6_CompanyStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="hw7_cookies" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js" type="b2602c69:ProjectViewProjectNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw6_CompanyStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="hw7_cookies" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -257,15 +253,15 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw5_localToDoList/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw7_cookies/css" />
       <recent name="$PROJECT_DIR$/hw6_CompanyStructure/js" />
       <recent name="$PROJECT_DIR$/hw5_localToDoList/js" />
       <recent name="$PROJECT_DIR$/hw5_todoList/img" />
       <recent name="$PROJECT_DIR$/hw3/pages" />
-      <recent name="$PROJECT_DIR$/hw3/js/temp" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/hw5_localToDoList/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -306,18 +302,17 @@
       <workItem from="1545214713392" duration="51570000" />
       <workItem from="1545418289529" duration="18774000" />
       <workItem from="1547244452774" duration="19831000" />
-      <workItem from="1547811864669" duration="17943000" />
+      <workItem from="1547811864669" duration="26976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="264813000" />
+    <option name="totallyTimeSpent" value="273846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16523606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16523606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -345,8 +340,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hw2/main.css" />
-    <entry file="file://$PROJECT_DIR$/hw3/img/basketball_PNG1104.png" />
     <entry file="file://$PROJECT_DIR$/hw2/index.html" />
     <entry file="file://$PROJECT_DIR$/hw3/img/ball.png" />
     <entry file="file://$PROJECT_DIR$/hw3/dom_1543149479.txt" />
@@ -460,17 +453,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37">
-          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="30">
+          <caret line="2" column="59" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js">
+    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1476">
-          <caret line="126" column="5" lean-forward="true" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/css/colorpicker.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-630" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/images/colorpicker_hsb_h.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/images/colorpicker_select.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2617" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/colorpicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="482" column="7" lean-forward="true" selection-start-line="482" selection-start-column="7" selection-end-line="482" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4269">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-747" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/utils.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -479,10 +518,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/index.html">
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="30">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/js/jquery.cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="61" selection-start-line="80" selection-start-column="61" selection-end-line="80" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/js/js_cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="45" column="85" selection-start-line="45" selection-start-column="85" selection-end-line="45" selection-end-column="85" />
+          <folding>
+            <element signature="e#870#877#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
