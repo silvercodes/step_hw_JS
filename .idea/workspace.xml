@@ -2,7 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db5c4903-f491-47b3-ba17-8ceac722f78d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/js.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/js.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/.idea/hw1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/.idea/hw1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw1/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2_calendar/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw2_calendar/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2_calendar/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw2_calendar/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw2_calendar/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw2_calendar/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/css/ball.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/css/ball.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/css/solarSystem.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/css/solarSystem.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/ball.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/ball.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/earth.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/earth.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/jupiter.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/jupiter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/mars.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/mars.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/mercury.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/mercury.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/moon.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/moon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/neptune.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/neptune.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/pluto.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/pluto.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/sat1.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/sat1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/sat2.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/sat2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/sat3.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/sat3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/sat4.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/sat4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/saturn.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/saturn.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/sun.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/sun.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/uranus.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/uranus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/venus.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/img/venus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/js/animate.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/js/animate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/js/ball.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/js/ball.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/js/solarSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/js/solarSystem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/pages/ball.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/pages/ball.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3_solarSystem_Ball/pages/solar.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw3_solarSystem_Ball/pages/solar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4_linksExtractor/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw4_linksExtractor/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4_linksExtractor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw4_linksExtractor/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw4_linksExtractor/js/extractor.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw4_linksExtractor/js/extractor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw5_localToDoList/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/hw5_localToDoList/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw5_localToDoList/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/hw5_localToDoList/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw5_localToDoList/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw5_localToDoList/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw5_localToDoList/js/lib.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw5_localToDoList/js/lib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw5_localToDoList/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw5_localToDoList/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw6_CompanyStructure/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw6_CompanyStructure/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw6_CompanyStructure/js/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw6_CompanyStructure/js/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw6_CompanyStructure/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw6_CompanyStructure/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw7_cookies/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hw7_cookies/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw7_cookies/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw7_cookies/js/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,19 +67,20 @@
     <session id="-113594459">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
-          <entry key="project.open.time.0" value="15" />
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.0" value="17" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="15" />
+          <entry key="css" value="17" />
           <entry key="gif" value="1" />
           <entry key="gitignore" value="2" />
-          <entry key="html" value="32" />
-          <entry key="js" value="58" />
+          <entry key="html" value="37" />
+          <entry key="js" value="66" />
           <entry key="json" value="1" />
           <entry key="png" value="4" />
           <entry key="txt" value="4" />
@@ -34,11 +88,11 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="15" />
-          <entry key="HTML" value="32" />
+          <entry key="CSS" value="17" />
+          <entry key="HTML" value="37" />
           <entry key="Image" value="5" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="58" />
+          <entry key="JavaScript" value="66" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
@@ -46,8 +100,8 @@
         <counts>
           <entry key="css" value="1489" />
           <entry key="gitignore" value="27" />
-          <entry key="html" value="3883" />
-          <entry key="js" value="50073" />
+          <entry key="html" value="3885" />
+          <entry key="js" value="51515" />
           <entry key="json" value="17" />
           <entry key="txt" value="2" />
         </counts>
@@ -55,9 +109,9 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="1489" />
-          <entry key="HTML" value="3883" />
+          <entry key="HTML" value="3885" />
           <entry key="JSON" value="17" />
-          <entry key="JavaScript" value="50073" />
+          <entry key="JavaScript" value="51515" />
           <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
@@ -66,31 +120,61 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw7_cookies/index.html">
+        <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="610">
-              <caret line="45" column="85" selection-start-line="45" selection-start-column="85" selection-end-line="45" selection-end-column="85" />
-              <folding>
-                <element signature="e#870#877#1" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hw7_cookies/js/main.js">
+        <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/js/lib.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="453">
+              <caret line="202" column="48" selection-start-line="202" selection-start-column="43" selection-end-line="202" selection-end-column="48" />
+              <folding>
+                <element signature="n#!!block;n#createEntryElement#0;n#Entry#0" />
+                <element signature="n#!!block;n#activate#0;n#Entry#0" />
+                <element signature="n#!!block;n#deactivate#0;n#Entry#0" />
+                <element signature="n#!!block;n#isActiveAnalisys#0;n#Entry#0" />
+                <element signature="n#!!block;n#getId#0;n#List#0" />
+                <element signature="n#!!block;n#createListElement#0;n#List#0" />
+                <element signature="n#!!block;n#selectItem#0;n#List#0" />
+                <element signature="n#!!block;n#deselectItem#0;n#List#0" />
+                <element signature="n#!!block;n#export#0;n#List#0" />
+                <element signature="n#!!block;n#import#0;n#List#0" />
+                <element signature="n#!!block;n#clear#0;n#List#0" />
+                <element signature="n#!!block;n#getInactiveCount#0;n#List#0" />
+                <element signature="n#!!block;n#removeInactive#0;n#List#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js">
+        <entry file="file://$PROJECT_DIR$/dev/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1200">
-              <caret line="80" column="61" selection-start-line="80" selection-start-column="61" selection-end-line="80" selection-end-column="61" />
+            <state relative-caret-position="105">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dev/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -109,6 +193,7 @@
       <find>putAllListsToMenu</find>
       <find>ownerBook</find>
       <find>deselectAll</find>
+      <find>local</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -133,7 +218,6 @@
         <option value="$PROJECT_DIR$/hw3/js/sun.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/dev/index.html" />
-        <option value="$PROJECT_DIR$/dev/main.js" />
         <option value="$PROJECT_DIR$/hw3/js/solarSystem.js" />
         <option value="$PROJECT_DIR$/hw4/test.html" />
         <option value="$PROJECT_DIR$/hw4/index.html" />
@@ -152,7 +236,6 @@
         <option value="$PROJECT_DIR$/hw5_localToDoList/js/main.js" />
         <option value="$PROJECT_DIR$/hw5_localToDoList/js/config.js" />
         <option value="$PROJECT_DIR$/hw6_CompanyStructure/js/config.js" />
-        <option value="$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js" />
         <option value="$PROJECT_DIR$/hw6_CompanyStructure/js/main.js" />
         <option value="$PROJECT_DIR$/hw6_CompanyStructure/index.html" />
         <option value="$PROJECT_DIR$/hw7_cookies/colorpicker/js/colorpicker.js" />
@@ -160,6 +243,12 @@
         <option value="$PROJECT_DIR$/hw7_cookies/js/js_cookie.js" />
         <option value="$PROJECT_DIR$/hw7_cookies/index.html" />
         <option value="$PROJECT_DIR$/hw7_cookies/js/main.js" />
+        <option value="$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js" />
+        <option value="$PROJECT_DIR$/hw8_jQueryToDoList/css/main.css" />
+        <option value="$PROJECT_DIR$/hw8_jQueryToDoList/index.html" />
+        <option value="$PROJECT_DIR$/hw8_jQueryToDoList/js/main.js" />
+        <option value="$PROJECT_DIR$/dev/main.js" />
+        <option value="$PROJECT_DIR$/hw8_jQueryToDoList/js/lib.js" />
       </list>
     </option>
   </component>
@@ -219,7 +308,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,18 +318,47 @@
             <path>
               <item name="js" type="b2602c69:ProjectViewProjectNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw7_cookies" type="462c0819:PsiDirectoryNode" />
+              <item name="dev" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js" type="b2602c69:ProjectViewProjectNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw7_cookies" type="462c0819:PsiDirectoryNode" />
+              <item name="hw5_localToDoList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="hw5_localToDoList" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="hw5_localToDoList" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="hw5_localToDoList" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="hw8_jQueryToDoList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="hw8_jQueryToDoList" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,15 +370,16 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/hw5_localToDoList/img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/hw7_cookies/css" />
       <recent name="$PROJECT_DIR$/hw6_CompanyStructure/js" />
       <recent name="$PROJECT_DIR$/hw5_localToDoList/js" />
       <recent name="$PROJECT_DIR$/hw5_todoList/img" />
       <recent name="$PROJECT_DIR$/hw3/pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw8_jQueryToDoList/img" />
+      <recent name="$PROJECT_DIR$/hw5_localToDoList/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -303,16 +421,21 @@
       <workItem from="1545418289529" duration="18774000" />
       <workItem from="1547244452774" duration="19831000" />
       <workItem from="1547811864669" duration="26976000" />
+      <workItem from="1548074917241" duration="477000" />
+      <workItem from="1548166299810" duration="1616000" />
+      <workItem from="1548672056865" duration="3245000" />
+      <workItem from="1548676199678" duration="5754000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273846000" />
+    <option name="totallyTimeSpent" value="284938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16523606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16944444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -325,7 +448,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.5710843" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.37228915" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -340,30 +463,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hw2/index.html" />
-    <entry file="file://$PROJECT_DIR$/hw3/img/ball.png" />
-    <entry file="file://$PROJECT_DIR$/hw3/dom_1543149479.txt" />
-    <entry file="file://$PROJECT_DIR$/hw3/css/main.css" />
     <entry file="file://$PROJECT_DIR$/hw3/js/temp/main.js" />
     <entry file="file://$PROJECT_DIR$/hw3/css/ball.css" />
     <entry file="file://$PROJECT_DIR$/hw3/pages/ball.html" />
     <entry file="file://$PROJECT_DIR$/hw3/js/ball.js" />
     <entry file="file://$PROJECT_DIR$/hw3/css/solarSystem.css" />
     <entry file="file://$PROJECT_DIR$/hw3/pages/solar.html" />
-    <entry file="file://$PROJECT_DIR$/dev/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw3/index.html" />
     <entry file="file://$PROJECT_DIR$/hw4/test.html" />
     <entry file="file://$PROJECT_DIR$/hw1/main.js">
@@ -380,69 +485,13 @@
     <entry file="file://$PROJECT_DIR$/hw5_todoList/to_do_list_1544980434.txt" />
     <entry file="file://$PROJECT_DIR$/hw5_todoList/css/main.css" />
     <entry file="file://$PROJECT_DIR$/hw5_todoList/index.html" />
-    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/WebServer/Documents/zmapper.loc/zview/main.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/hw5_todoList/js/cls.js" />
     <entry file="file://$PROJECT_DIR$/hw5_todoList/js/main.js" />
-    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/js/lib.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="230" column="21" lean-forward="true" selection-start-line="230" selection-start-column="21" selection-end-line="230" selection-end-column="21" />
-          <folding>
-            <element signature="e#17#37#0" />
-            <element signature="e#309#350#0" />
-            <element signature="e#401#1188#0" />
-            <element signature="e#1229#1316#0" />
-            <element signature="e#1359#1442#0" />
-            <element signature="e#1860#1868#0" />
-            <element signature="e#1909#1928#0" />
-            <element signature="e#1936#1984#0" />
-            <element signature="e#2033#2504#0" />
-            <element signature="e#2546#2643#0" />
-            <element signature="e#2687#2761#0" />
-            <element signature="e#2799#2861#0" />
-            <element signature="e#2899#3120#0" />
-            <element signature="e#3429#3437#0" />
-            <element signature="e#3572#3580#0" />
-            <element signature="e#4407#4426#0" />
-            <element signature="e#3658#3863#0" />
-            <element signature="e#3901#4257#0" />
-            <element signature="e#4479#4487#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw4_linksExtractor/index.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="80" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="115" column="18" selection-start-line="115" selection-start-column="11" selection-end-line="115" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!block;n#addList#0" />
-            <element signature="n#!!block;n#clearList#0" />
-            <element signature="n#!!block;n#deleteList#0" />
-            <element signature="n#!!block;n#addEntry#0" />
-            <element signature="n#!!block;n#saveToLocalStorage#0" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
@@ -458,59 +507,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/css/colorpicker.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-630" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/images/colorpicker_hsb_h.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/images/colorpicker_select.gif">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2617" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/colorpicker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="482" column="7" lean-forward="true" selection-start-line="482" selection-start-column="7" selection-end-line="482" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4269">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#table#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/layout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-747" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/utils.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/css/colorpicker.css" />
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/images/colorpicker_hsb_h.png" />
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/images/colorpicker_select.gif" />
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/index.html" />
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/css/layout.css" />
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/colorpicker.js" />
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/layout.js" />
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/utils.js" />
     <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/config.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -518,53 +523,119 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/js/jquery.cookie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1200">
-          <caret line="80" column="61" selection-start-line="80" selection-start-column="61" selection-end-line="80" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/js/js_cookie.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/js/jquery.cookie.js" />
+    <entry file="file://$PROJECT_DIR$/hw7_cookies/js/js_cookie.js" />
     <entry file="file://$PROJECT_DIR$/hw7_cookies/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="45" column="85" selection-start-line="45" selection-start-column="85" selection-end-line="45" selection-end-column="85" />
-          <folding>
-            <element signature="e#870#877#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="645">
+          <caret line="43" column="43" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hw7_cookies/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="80" lean-forward="true" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/js/lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3450">
+          <caret line="230" column="21" lean-forward="true" selection-end-line="238" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="115" column="18" selection-end-line="141" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dev/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/js/lib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="202" column="48" selection-start-line="202" selection-start-column="43" selection-end-line="202" selection-end-column="48" />
+          <folding>
+            <element signature="n#!!block;n#createEntryElement#0;n#Entry#0" />
+            <element signature="n#!!block;n#activate#0;n#Entry#0" />
+            <element signature="n#!!block;n#deactivate#0;n#Entry#0" />
+            <element signature="n#!!block;n#isActiveAnalisys#0;n#Entry#0" />
+            <element signature="n#!!block;n#getId#0;n#List#0" />
+            <element signature="n#!!block;n#createListElement#0;n#List#0" />
+            <element signature="n#!!block;n#selectItem#0;n#List#0" />
+            <element signature="n#!!block;n#deselectItem#0;n#List#0" />
+            <element signature="n#!!block;n#export#0;n#List#0" />
+            <element signature="n#!!block;n#import#0;n#List#0" />
+            <element signature="n#!!block;n#clear#0;n#List#0" />
+            <element signature="n#!!block;n#getInactiveCount#0;n#List#0" />
+            <element signature="n#!!block;n#removeInactive#0;n#List#0" />
+          </folding>
         </state>
       </provider>
     </entry>
