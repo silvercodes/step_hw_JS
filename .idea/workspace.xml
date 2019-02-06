@@ -14,20 +14,20 @@
     <session id="-113594459">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
-          <entry key="project.open.time.0" value="17" />
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.0" value="18" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="21" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="17" />
+          <entry key="css" value="18" />
           <entry key="gif" value="1" />
           <entry key="gitignore" value="2" />
-          <entry key="html" value="38" />
-          <entry key="js" value="66" />
+          <entry key="html" value="41" />
+          <entry key="js" value="79" />
           <entry key="json" value="1" />
           <entry key="png" value="4" />
           <entry key="txt" value="4" />
@@ -35,102 +35,42 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="17" />
-          <entry key="HTML" value="38" />
+          <entry key="CSS" value="18" />
+          <entry key="HTML" value="41" />
           <entry key="Image" value="5" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="66" />
+          <entry key="JavaScript" value="79" />
           <entry key="PLAIN_TEXT" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1489" />
+          <entry key="css" value="1660" />
           <entry key="gitignore" value="27" />
-          <entry key="html" value="3885" />
-          <entry key="js" value="51515" />
+          <entry key="html" value="4173" />
+          <entry key="js" value="52635" />
           <entry key="json" value="17" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1489" />
-          <entry key="HTML" value="3885" />
+          <entry key="CSS" value="1660" />
+          <entry key="HTML" value="4173" />
           <entry key="JSON" value="17" />
-          <entry key="JavaScript" value="51515" />
+          <entry key="JavaScript" value="52635" />
           <entry key="PLAIN_TEXT" value="29" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/js/lib.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
-              <folding>
-                <element signature="n#!!block;n#createEntryElement#0;n#Entry#0" />
-                <element signature="n#!!block;n#activate#0;n#Entry#0" />
-                <element signature="n#!!block;n#deactivate#0;n#Entry#0" />
-                <element signature="n#!!block;n#isActiveAnalisys#0;n#Entry#0" />
-                <element signature="n#!!block;n#getId#0;n#List#0" />
-                <element signature="n#!!block;n#createListElement#0;n#List#0" />
-                <element signature="n#!!block;n#selectItem#0;n#List#0" />
-                <element signature="n#!!block;n#deselectItem#0;n#List#0" />
-                <element signature="n#!!block;n#export#0;n#List#0" />
-                <element signature="n#!!block;n#import#0;n#List#0" />
-                <element signature="n#!!block;n#clear#0;n#List#0" />
-                <element signature="n#!!block;n#getInactiveCount#0;n#List#0" />
-                <element signature="n#!!block;n#removeInactive#0;n#List#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hw5_localToDoList/index.html">
+        <entry file="file://$PROJECT_DIR$/hw3_solarSystem_Ball/js/ball.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dev/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="1408">
+              <caret line="167" column="39" lean-forward="true" selection-start-line="167" selection-start-column="39" selection-end-line="167" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -158,12 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hw2/main.css" />
-        <option value="$PROJECT_DIR$/hw2/main.js" />
-        <option value="$PROJECT_DIR$/hw2/index.html" />
-        <option value="$PROJECT_DIR$/hw3/main.css" />
-        <option value="$PROJECT_DIR$/hw3/main.js" />
-        <option value="$PROJECT_DIR$/hw3/css/main.css" />
         <option value="$PROJECT_DIR$/hw3/js/main.js" />
         <option value="$PROJECT_DIR$/hw3/pages/ball.html" />
         <option value="$PROJECT_DIR$/hw3/css/solar.css" />
@@ -205,6 +139,16 @@
         <option value="$PROJECT_DIR$/hw8_jQueryToDoList/js/main.js" />
         <option value="$PROJECT_DIR$/dev/main.js" />
         <option value="$PROJECT_DIR$/hw8_jQueryToDoList/js/lib.js" />
+        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/two.js" />
+        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/block.js" />
+        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/ball.js" />
+        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/ext/jquery.js" />
+        <option value="$PROJECT_DIR$/hw9_arkanoid/css/style.css" />
+        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/field.js" />
+        <option value="$PROJECT_DIR$/hw9_arkanoid/index.html" />
+        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/platform.js" />
+        <option value="$PROJECT_DIR$/hw9_arkanoid/js/main.js" />
+        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/gameManager.js" />
       </list>
     </option>
   </component>
@@ -279,24 +223,12 @@
             <path>
               <item name="js" type="b2602c69:ProjectViewProjectNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw5_localToDoList" type="462c0819:PsiDirectoryNode" />
+              <item name="hw3_solarSystem_Ball" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js" type="b2602c69:ProjectViewProjectNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw5_localToDoList" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw5_localToDoList" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw5_localToDoList" type="462c0819:PsiDirectoryNode" />
+              <item name="hw3_solarSystem_Ball" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -326,16 +258,16 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw8_jQueryToDoList/img" />
+      <recent name="$PROJECT_DIR$/hw5_localToDoList/img" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/hw9_arkanoid/js/lib/include" />
       <recent name="$PROJECT_DIR$/hw7_cookies/css" />
       <recent name="$PROJECT_DIR$/hw6_CompanyStructure/js" />
       <recent name="$PROJECT_DIR$/hw5_localToDoList/js" />
       <recent name="$PROJECT_DIR$/hw5_todoList/img" />
-      <recent name="$PROJECT_DIR$/hw3/pages" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/hw8_jQueryToDoList/img" />
-      <recent name="$PROJECT_DIR$/hw5_localToDoList/img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -380,12 +312,13 @@
       <workItem from="1548074917241" duration="477000" />
       <workItem from="1548166299810" duration="1616000" />
       <workItem from="1548672056865" duration="3245000" />
-      <workItem from="1548676199678" duration="6926000" />
+      <workItem from="1548676199678" duration="15329000" />
+      <workItem from="1549033667409" duration="236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="286110000" />
+    <option name="totallyTimeSpent" value="294749000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -418,21 +351,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hw3/js/temp/main.js" />
-    <entry file="file://$PROJECT_DIR$/hw3/css/ball.css" />
-    <entry file="file://$PROJECT_DIR$/hw3/pages/ball.html" />
-    <entry file="file://$PROJECT_DIR$/hw3/js/ball.js" />
-    <entry file="file://$PROJECT_DIR$/hw3/css/solarSystem.css" />
-    <entry file="file://$PROJECT_DIR$/hw3/pages/solar.html" />
-    <entry file="file://$PROJECT_DIR$/hw3/index.html" />
-    <entry file="file://$PROJECT_DIR$/hw4/test.html" />
-    <entry file="file://$PROJECT_DIR$/hw1/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw2/main.js" />
-    <entry file="file://$PROJECT_DIR$/hw3/js/solarSystem.js" />
     <entry file="file://$PROJECT_DIR$/hw4/index.html" />
     <entry file="file://$PROJECT_DIR$/hw4/js/extractor.js" />
     <entry file="file://$PROJECT_DIR$/hw3/js/animate.js" />
@@ -440,9 +358,6 @@
     <entry file="file://$PROJECT_DIR$/hw5_todoList/to_do_list_1544980434.txt" />
     <entry file="file://$PROJECT_DIR$/hw5_todoList/css/main.css" />
     <entry file="file://$PROJECT_DIR$/hw5_todoList/index.html" />
-    <entry file="file:///Library/WebServer/Documents/zmapper.loc/zview/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/hw5_todoList/js/cls.js" />
     <entry file="file://$PROJECT_DIR$/hw5_todoList/js/main.js" />
     <entry file="file://$PROJECT_DIR$/hw4_linksExtractor/index.html">
@@ -537,13 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dev/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -569,21 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="86">
           <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
-          <folding>
-            <element signature="n#!!block;n#createEntryElement#0;n#Entry#0" />
-            <element signature="n#!!block;n#activate#0;n#Entry#0" />
-            <element signature="n#!!block;n#deactivate#0;n#Entry#0" />
-            <element signature="n#!!block;n#isActiveAnalisys#0;n#Entry#0" />
-            <element signature="n#!!block;n#getId#0;n#List#0" />
-            <element signature="n#!!block;n#createListElement#0;n#List#0" />
-            <element signature="n#!!block;n#selectItem#0;n#List#0" />
-            <element signature="n#!!block;n#deselectItem#0;n#List#0" />
-            <element signature="n#!!block;n#export#0;n#List#0" />
-            <element signature="n#!!block;n#import#0;n#List#0" />
-            <element signature="n#!!block;n#clear#0;n#List#0" />
-            <element signature="n#!!block;n#getInactiveCount#0;n#List#0" />
-            <element signature="n#!!block;n#removeInactive#0;n#List#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -591,6 +484,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/ext/two.js" />
+    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/ball.js" />
+    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/ext/jquery.js" />
+    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/block.js" />
+    <entry file="file:///Library/WebServer/Documents/zmapper.loc/zview/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="120" column="59" lean-forward="true" selection-start-line="120" selection-end-line="120" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/index.html" />
+    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/field.js" />
+    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/platform.js" />
+    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/gameManager.js" />
+    <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/hw3_solarSystem_Ball/js/ball.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="167" column="39" lean-forward="true" selection-start-line="167" selection-start-column="39" selection-end-line="167" selection-end-column="39" />
         </state>
       </provider>
     </entry>

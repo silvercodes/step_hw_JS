@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!--TwoJS-->
+    <script src="js/lib/ext/two.js"></script>
+    <script src="js/lib/ext/defi.min.js"></script>
+
+    <!--local-->
+    <script src="js/lib/ball.js"></script>
+    <script src="js/lib/block.js"></script>
+    <script src="js/lib/platform.js"></script>
+    <script src="js/lib/gameManager.js"></script>
+    <script src="js/lib/panel.js"></script>
+    <script src="js/main.js"></script>
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>Arkanoid</title>
+</head>
+<body>
+
+    <div id="canvas"></div>
+    <div class="panel">
+        <div class="row">
+            <label for="enable_mouse">Enable mouse</label>
+            <input type="checkbox" id="enable_mouse">
+        </div>
+        <div class="row">
+            <label for="sens_mouse">Sensitivity</label>
+            <input type="range" id="sens_mouse" min="-2" max="2" step="1">
+            <div id="sens_mouse_value"></div>
+        </div>
+        <div class="score" id="score"></div>
+        <div class="row">
+            <button id="new_game">New game</button>
+        </div>
+    </div>
+
+</body>
+</html>

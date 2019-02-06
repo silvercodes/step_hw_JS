@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+}
+
+#canvas {
+    height: 600px;
+    width: 600px;
+    margin: 40px 0 0 40px;
+
+    display: inline-block;
+
+    border: 1px solid #426288;
+}
+
+.panel {
+    height: 300px;
+    width: 200px;
+    margin: 40px 0 0 40px;
+    padding: 5px;
+
+    display: inline-block;
+    vertical-align: top;
+
+    border: 1px solid lightgray;
+}
+
+.score {
+    margin-top: 50px;
+
+    font-size: 24px;
+    color: #2e60a0;
+}
+
+.row {
+    display: inline-block;
+}
+
+#enable_mouse {
+    margin: 20px;
+}
+
+#sens_mouse_value {
+    margin: 1px auto;
+    color: white;
+}
+
+#new_game {
+    display: inline-block;
+    margin: 10px auto;
+}
