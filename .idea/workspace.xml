@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="db5c4903-f491-47b3-ba17-8ceac722f78d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw9_arkanoid/.idea/Icon&#10;" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw9_arkanoid/.idea/inspectionProfiles/Icon&#10;" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,63 +16,82 @@
     <session id="-113594459">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
-          <entry key="project.open.time.0" value="18" />
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.0" value="21" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="18" />
+          <entry key="css" value="20" />
           <entry key="gif" value="1" />
-          <entry key="gitignore" value="2" />
-          <entry key="html" value="41" />
-          <entry key="js" value="79" />
-          <entry key="json" value="1" />
+          <entry key="gitignore" value="3" />
+          <entry key="html" value="42" />
+          <entry key="js" value="81" />
+          <entry key="json" value="2" />
           <entry key="png" value="4" />
           <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="18" />
-          <entry key="HTML" value="41" />
+          <entry key="CSS" value="20" />
+          <entry key="HTML" value="42" />
           <entry key="Image" value="5" />
-          <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="79" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="81" />
+          <entry key="PLAIN_TEXT" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1660" />
+          <entry key="css" value="1677" />
+          <entry key="dummy" value="4" />
           <entry key="gitignore" value="27" />
-          <entry key="html" value="4173" />
-          <entry key="js" value="52635" />
+          <entry key="html" value="4315" />
+          <entry key="js" value="59004" />
           <entry key="json" value="17" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1660" />
-          <entry key="HTML" value="4173" />
+          <entry key="CSS" value="1677" />
+          <entry key="HTML" value="4315" />
           <entry key="JSON" value="17" />
-          <entry key="JavaScript" value="52635" />
-          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="JavaScript" value="59004" />
+          <entry key="PLAIN_TEXT" value="33" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hw3_solarSystem_Ball/js/ball.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw10_TagGame/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1408">
-              <caret line="167" column="39" lean-forward="true" selection-start-line="167" selection-start-column="39" selection-end-line="167" selection-end-column="39" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hw10_TagGame/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hw10_TagGame/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -98,10 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hw3/js/main.js" />
-        <option value="$PROJECT_DIR$/hw3/pages/ball.html" />
-        <option value="$PROJECT_DIR$/hw3/css/solar.css" />
-        <option value="$PROJECT_DIR$/hw3/index.html" />
         <option value="$PROJECT_DIR$/hw3/js/animate.js" />
         <option value="$PROJECT_DIR$/hw3/css/sun.css" />
         <option value="$PROJECT_DIR$/hw3/pages/solar.html" />
@@ -149,6 +166,10 @@
         <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/platform.js" />
         <option value="$PROJECT_DIR$/hw9_arkanoid/js/main.js" />
         <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/gameManager.js" />
+        <option value="$PROJECT_DIR$/hw10_TagGame/css/style.css" />
+        <option value="$PROJECT_DIR$/hw10_TagGame/index.html" />
+        <option value="$PROJECT_DIR$/hw10_TagGame/fonts/helvetiker_bold.typeface copy.json" />
+        <option value="$PROJECT_DIR$/hw10_TagGame/js/main.js" />
       </list>
     </option>
   </component>
@@ -208,6 +229,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,35 +240,24 @@
             <path>
               <item name="js" type="b2602c69:ProjectViewProjectNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="dev" type="462c0819:PsiDirectoryNode" />
+              <item name="hw10_TagGame" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js" type="b2602c69:ProjectViewProjectNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw3_solarSystem_Ball" type="462c0819:PsiDirectoryNode" />
+              <item name="hw10_TagGame" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js" type="b2602c69:ProjectViewProjectNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw3_solarSystem_Ball" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw8_jQueryToDoList" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw8_jQueryToDoList" type="462c0819:PsiDirectoryNode" />
+              <item name="hw10_TagGame" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,16 +325,19 @@
       <workItem from="1548672056865" duration="3245000" />
       <workItem from="1548676199678" duration="15329000" />
       <workItem from="1549033667409" duration="236000" />
+      <workItem from="1549447081787" duration="23427000" />
+      <workItem from="1549548573117" duration="993000" />
+      <workItem from="1549552086716" duration="8689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294749000" />
+    <option name="totallyTimeSpent" value="327858000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16944444" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17986111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -336,7 +350,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.7708578" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26439482" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -351,10 +365,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hw4/index.html" />
-    <entry file="file://$PROJECT_DIR$/hw4/js/extractor.js" />
-    <entry file="file://$PROJECT_DIR$/hw3/js/animate.js" />
-    <entry file="file://$PROJECT_DIR$/hw5_todoList/data/db.json" />
     <entry file="file://$PROJECT_DIR$/hw5_todoList/to_do_list_1544980434.txt" />
     <entry file="file://$PROJECT_DIR$/hw5_todoList/css/main.css" />
     <entry file="file://$PROJECT_DIR$/hw5_todoList/index.html" />
@@ -362,13 +372,6 @@
     <entry file="file://$PROJECT_DIR$/hw5_todoList/js/main.js" />
     <entry file="file://$PROJECT_DIR$/hw4_linksExtractor/index.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -499,7 +502,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hw9_arkanoid/index.html" />
-    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/main.js" />
     <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/field.js" />
     <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/platform.js" />
     <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/gameManager.js" />
@@ -510,11 +512,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hw3_solarSystem_Ball/js/ball.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="167" column="39" lean-forward="true" selection-start-line="167" selection-start-column="39" selection-end-line="167" selection-end-column="39" />
+        <state relative-caret-position="-54">
+          <caret line="167" column="39" selection-start-line="167" selection-start-column="39" selection-end-line="167" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw10_TagGame/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw10_TagGame/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw10_TagGame/fonts/helvetiker_bold.typeface copy.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18419">
+          <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hw10_TagGame/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
     </entry>

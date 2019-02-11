@@ -1,0 +1,12 @@
+body {
+    margin: 0px;
+    background-color: black;
+}
+
+#score {
+    position: absolute;
+    top: 0;
+    margin: 20px;
+    color: #263c53;
+    /*margin: 20px;*/
+}
