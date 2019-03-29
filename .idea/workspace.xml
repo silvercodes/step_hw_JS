@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="db5c4903-f491-47b3-ba17-8ceac722f78d" name="Default Changelist" comment="">
+    <list default="true" id="30296ba6-d086-4724-80ad-606f0dc59537" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/js.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/js.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw9_arkanoid/.idea/Icon&#10;" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hw9_arkanoid/.idea/inspectionProfiles/Icon&#10;" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,102 +19,45 @@
     <session id="-113594459">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
-          <entry key="project.open.time.0" value="21" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="25" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="20" />
-          <entry key="gif" value="1" />
-          <entry key="gitignore" value="3" />
-          <entry key="html" value="42" />
-          <entry key="js" value="81" />
-          <entry key="json" value="2" />
-          <entry key="png" value="4" />
-          <entry key="txt" value="4" />
+          <entry key="gitignore" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="20" />
-          <entry key="HTML" value="42" />
-          <entry key="Image" value="5" />
-          <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="81" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="1677" />
-          <entry key="dummy" value="4" />
-          <entry key="gitignore" value="27" />
-          <entry key="html" value="4315" />
-          <entry key="js" value="59004" />
-          <entry key="json" value="17" />
-          <entry key="txt" value="2" />
+          <entry key="gitignore" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="1677" />
-          <entry key="HTML" value="4315" />
-          <entry key="JSON" value="17" />
-          <entry key="JavaScript" value="59004" />
-          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="PLAIN_TEXT" value="21" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw10_TagGame/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hw10_TagGame/js/main.js">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hw10_TagGame/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="30">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>size</find>
-      <find>results</find>
-      <find>btnGo</find>
-      <find>console</find>
-      <find>desactivate</find>
-      <find>menuItemClick</find>
-      <find>activate</find>
-      <find>putAllListsToMenu</find>
-      <find>ownerBook</find>
-      <find>deselectAll</find>
-      <find>local</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -119,57 +65,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hw3/js/animate.js" />
-        <option value="$PROJECT_DIR$/hw3/css/sun.css" />
-        <option value="$PROJECT_DIR$/hw3/pages/solar.html" />
-        <option value="$PROJECT_DIR$/hw3/js/sun.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/dev/index.html" />
-        <option value="$PROJECT_DIR$/hw3/js/solarSystem.js" />
-        <option value="$PROJECT_DIR$/hw4/test.html" />
-        <option value="$PROJECT_DIR$/hw4/index.html" />
-        <option value="$PROJECT_DIR$/hw4/js/extractor.js" />
-        <option value="$PROJECT_DIR$/hw5_todoList/to_do_list_1544980434.txt" />
-        <option value="$PROJECT_DIR$/hw5_todoList/data/db.json" />
-        <option value="$PROJECT_DIR$/hw5_todoList/css/main.css" />
-        <option value="$PROJECT_DIR$/hw5_todoList/index.html" />
-        <option value="$PROJECT_DIR$/hw5_todoList/js/main.js" />
-        <option value="$PROJECT_DIR$/hw5_todoList/js/cls.js" />
-        <option value="$PROJECT_DIR$/hw5_todoList/cls.js" />
-        <option value="$PROJECT_DIR$/hw5_localToDoList/css/main.css" />
-        <option value="$PROJECT_DIR$/hw5_localToDoList/js/cls.js" />
-        <option value="$PROJECT_DIR$/hw5_localToDoList/index.html" />
-        <option value="$PROJECT_DIR$/hw5_localToDoList/js/lib.js" />
-        <option value="$PROJECT_DIR$/hw5_localToDoList/js/main.js" />
-        <option value="$PROJECT_DIR$/hw5_localToDoList/js/config.js" />
-        <option value="$PROJECT_DIR$/hw6_CompanyStructure/js/config.js" />
-        <option value="$PROJECT_DIR$/hw6_CompanyStructure/js/main.js" />
-        <option value="$PROJECT_DIR$/hw6_CompanyStructure/index.html" />
-        <option value="$PROJECT_DIR$/hw7_cookies/colorpicker/js/colorpicker.js" />
-        <option value="$PROJECT_DIR$/hw7_cookies/main.css" />
-        <option value="$PROJECT_DIR$/hw7_cookies/js/js_cookie.js" />
-        <option value="$PROJECT_DIR$/hw7_cookies/index.html" />
-        <option value="$PROJECT_DIR$/hw7_cookies/js/main.js" />
-        <option value="$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js" />
-        <option value="$PROJECT_DIR$/hw8_jQueryToDoList/css/main.css" />
-        <option value="$PROJECT_DIR$/hw8_jQueryToDoList/index.html" />
-        <option value="$PROJECT_DIR$/hw8_jQueryToDoList/js/main.js" />
-        <option value="$PROJECT_DIR$/dev/main.js" />
-        <option value="$PROJECT_DIR$/hw8_jQueryToDoList/js/lib.js" />
-        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/two.js" />
-        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/block.js" />
-        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/ball.js" />
-        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/ext/jquery.js" />
-        <option value="$PROJECT_DIR$/hw9_arkanoid/css/style.css" />
-        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/field.js" />
-        <option value="$PROJECT_DIR$/hw9_arkanoid/index.html" />
-        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/platform.js" />
-        <option value="$PROJECT_DIR$/hw9_arkanoid/js/main.js" />
-        <option value="$PROJECT_DIR$/hw9_arkanoid/js/lib/gameManager.js" />
-        <option value="$PROJECT_DIR$/hw10_TagGame/css/style.css" />
-        <option value="$PROJECT_DIR$/hw10_TagGame/index.html" />
-        <option value="$PROJECT_DIR$/hw10_TagGame/fonts/helvetiker_bold.typeface copy.json" />
-        <option value="$PROJECT_DIR$/hw10_TagGame/js/main.js" />
       </list>
     </option>
   </component>
@@ -182,47 +78,6 @@
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>CSS</id>
-          </State>
-          <State>
-            <id>DOM issuesJavaScript</id>
-          </State>
-          <State>
-            <id>GeneralJavaScript</id>
-          </State>
-          <State>
-            <id>GeneralPHP</id>
-          </State>
-          <State>
-            <id>HTML</id>
-          </State>
-          <State>
-            <id>JavaScript</id>
-          </State>
-          <State>
-            <id>PHP</id>
-          </State>
-          <State>
-            <id>Type compatibilityPHP</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>JSDeprecatedSymbols</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -237,23 +92,6 @@
               <item name="js" type="b2602c69:ProjectViewProjectNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw10_TagGame" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw10_TagGame" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="hw10_TagGame" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -262,24 +100,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/hw8_jQueryToDoList/img" />
-      <recent name="$PROJECT_DIR$/hw5_localToDoList/img" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/hw9_arkanoid/js/lib/include" />
-      <recent name="$PROJECT_DIR$/hw7_cookies/css" />
-      <recent name="$PROJECT_DIR$/hw6_CompanyStructure/js" />
-      <recent name="$PROJECT_DIR$/hw5_localToDoList/js" />
-      <recent name="$PROJECT_DIR$/hw5_todoList/img" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -294,68 +118,45 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration>$USER_HOME$/.subversion</configuration>
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="db5c4903-f491-47b3-ba17-8ceac722f78d" name="Default Changelist" comment="" />
-      <created>1543408169131</created>
+      <changelist id="30296ba6-d086-4724-80ad-606f0dc59537" name="Default Changelist" comment="" />
+      <created>1553850323546</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1543408169131</updated>
-      <workItem from="1543408170260" duration="26899000" />
-      <workItem from="1543578462555" duration="1436000" />
-      <workItem from="1543581865040" duration="5488000" />
-      <workItem from="1543827341129" duration="22000" />
-      <workItem from="1543831918327" duration="92000" />
-      <workItem from="1543832274999" duration="4746000" />
-      <workItem from="1543915303903" duration="19547000" />
-      <workItem from="1543948895101" duration="4375000" />
-      <workItem from="1543954541476" duration="1056000" />
-      <workItem from="1543999779885" duration="14541000" />
-      <workItem from="1544040010483" duration="40199000" />
-      <workItem from="1544293736537" duration="165000" />
-      <workItem from="1544436741219" duration="38129000" />
-      <workItem from="1545214713392" duration="51570000" />
-      <workItem from="1545418289529" duration="18774000" />
-      <workItem from="1547244452774" duration="19831000" />
-      <workItem from="1547811864669" duration="26976000" />
-      <workItem from="1548074917241" duration="477000" />
-      <workItem from="1548166299810" duration="1616000" />
-      <workItem from="1548672056865" duration="3245000" />
-      <workItem from="1548676199678" duration="15329000" />
-      <workItem from="1549033667409" duration="236000" />
-      <workItem from="1549447081787" duration="23427000" />
-      <workItem from="1549548573117" duration="993000" />
-      <workItem from="1549552086716" duration="8689000" />
+      <updated>1553850323546</updated>
+      <workItem from="1553850324740" duration="122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="327858000" />
+    <option name="totallyTimeSpent" value="122000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17986111" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.52408934" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32902467" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26439482" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Mongo Explorer" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,202 +166,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hw5_todoList/to_do_list_1544980434.txt" />
-    <entry file="file://$PROJECT_DIR$/hw5_todoList/css/main.css" />
-    <entry file="file://$PROJECT_DIR$/hw5_todoList/index.html" />
-    <entry file="file://$PROJECT_DIR$/hw5_todoList/js/cls.js" />
-    <entry file="file://$PROJECT_DIR$/hw5_todoList/js/main.js" />
-    <entry file="file://$PROJECT_DIR$/hw4_linksExtractor/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="59" lean-forward="true" selection-start-line="2" selection-end-line="2" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/css/colorpicker.css" />
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/images/colorpicker_hsb_h.png" />
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/images/colorpicker_select.gif" />
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/index.html" />
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/css/layout.css" />
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/colorpicker.js" />
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/jquery.js" />
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/layout.js" />
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/colorpicker/js/utils.js" />
-    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="85" selection-start-line="6" selection-start-column="75" selection-end-line="6" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/css/main.css" />
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/js/jquery.cookie.js" />
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/js/js_cookie.js" />
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="43" selection-start-line="43" selection-start-column="43" selection-end-line="43" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw7_cookies/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/js/lib.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw6_CompanyStructure/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/js/lib.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3450">
-          <caret line="230" column="21" lean-forward="true" selection-end-line="238" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="115" column="18" selection-end-line="141" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dev/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/js/lib.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="196" lean-forward="true" selection-start-line="196" selection-end-line="196" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw5_localToDoList/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/ext/two.js" />
-    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/ball.js" />
-    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/ext/jquery.js" />
-    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/block.js" />
-    <entry file="file:///Library/WebServer/Documents/zmapper.loc/zview/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="120" column="59" lean-forward="true" selection-start-line="120" selection-end-line="120" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/index.html" />
-    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/field.js" />
-    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/platform.js" />
-    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/lib/gameManager.js" />
-    <entry file="file://$PROJECT_DIR$/hw8_jQueryToDoList/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw3_solarSystem_Ball/js/ball.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-54">
-          <caret line="167" column="39" selection-start-line="167" selection-start-column="39" selection-end-line="167" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="2" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw9_arkanoid/css/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw10_TagGame/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw10_TagGame/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw10_TagGame/fonts/helvetiker_bold.typeface copy.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18419">
-          <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hw10_TagGame/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
